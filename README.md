@@ -36,7 +36,7 @@ The goal is to provide a secure, private way to analyze your Instagram connectio
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/instagram-follower-analyzer.git
+git clone https://github.com/albrtoamc/instagram-follower-analyzer.git
 cd instagram-follower-analyzer
 ```
 
